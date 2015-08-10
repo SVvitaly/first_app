@@ -5,3 +5,4 @@
 by [Майкл Хартл](http://michaelhartl.com/).
 
 # sample_app
+# sample_app
